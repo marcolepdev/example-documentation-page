@@ -182,7 +182,15 @@ li {
           padding:10px 30px 10px 30px;
           font-size: 13px;
       }
- }
+    
+.list-item2 {
+    padding:10px 60px 30px 90px;
+}
+
+.list-item3 {
+    padding:10px 10px 30px 25px;
+}
+
 
 }
   
