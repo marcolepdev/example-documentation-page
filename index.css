@@ -181,5 +181,35 @@ li {
           padding:10px 30px 10px 30px;
           font-size: 13px;
       }
+    .quote-container {
+    border-radius: 2%;
+    background-color: #f7f7f7;
+    width:80%;
+    height:10vh;
+    align-content: center;
+    margin:10px 50px 10px 50px;
+    padding:15px 20px 10px 40px;
+}
+
+.quote-container2 {
+    border-radius: 2%;
+    background-color: #f7f7f7;
+    width:80%;
+    height:3vh;
+    align-content: center;
+    margin:10px 50px 10px 50px;
+    padding:15px 20px 10px 40px;
+}
+
+.quote-container3 {
+    border-radius: 2%;
+    background-color: #f7f7f7;
+    width:80%;
+    height:6vh;
+    align-content: center;
+    margin:10px 50px 10px 50px;
+    padding:15px 20px 10px 40px;
+}
+
 }
   
