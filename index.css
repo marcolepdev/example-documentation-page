@@ -105,11 +105,11 @@ p {
 
 
 .list-item2 {
-    padding:10px 10px 30px 180px;
+    padding:10px 0px 30px 180px;
 }
 
 .list-item3 {
-    padding:10px 10px 30px 45px;
+    padding:10px 0px 30px 45px;
 }
 
 
@@ -123,10 +123,10 @@ li {
     border-radius: 2%;
     background-color: #f7f7f7;
     width:80%;
-    height:10vh;
+    height:12vh;
     align-content: center;
     margin:10px 50px 10px 50px;
-    padding:15px 20px 10px 20px;
+    padding:30px 20px 10px 30px;
 }
 
 .quote-container2 {
@@ -136,7 +136,7 @@ li {
     height:3vh;
     align-content: center;
     margin:10px 50px 10px 50px;
-    padding:15px 20px 10px 20px;
+    padding:25px 20px 25px 20px;
 }
 
 .quote-container3 {
@@ -146,7 +146,7 @@ li {
     height:6vh;
     align-content: center;
     margin:10px 50px 10px 50px;
-    padding:15px 20px 10px 20px;
+    padding:15px 20px 15px 20px;
 }
 
 
@@ -173,7 +173,6 @@ li {
           height:20vh;
           border-bottom: 1px solid #000000;
       }
-    
       .list-item {
           padding:10px 20px 10px 80px;
           font-size: 13px;
@@ -182,47 +181,41 @@ li {
           padding:10px 30px 10px 30px;
           font-size: 13px;
       }
+
+      .quote-container {
+        border-radius: 2%;
+        background-color: #f7f7f7;
+        width:80%;
+        height:10vh;
+        align-content: center;
+        margin:10px 80px 10px 20px;
+        padding:30px 20px 25px 40px;
+    }
     
-.list-item2 {
-    padding:10px 60px 30px 90px;
-    font-size: 13px;
-}
-
-.list-item3 {
-    padding:10px 10px 30px 25px;
-    font-size: 13px;
-}
-
     .quote-container2 {
-    border-radius: 2%;
-    background-color: #f7f7f7;
-    width:80%;
-    height:3vh;
-    align-content: center;
-    margin:10px 50px 10px 50px;
-    padding:15px 40px 10px 20px;
-}
-
-.quote-container3 {
-    border-radius: 2%;
-    background-color: #f7f7f7;
-    width:80%;
-    height:6vh;
-    align-content: center;
-    margin:10px 50px 10px 50px;
-    padding:15px 40px 10px 20px;
-}
+        border-radius: 2%;
+        background-color: #f7f7f7;
+        width:80%;
+        height:5vh;
+        align-content: center;
+        margin:10px 80px 10px 20px;
+        padding:35px 20px 30px 40px;
+    }
     
-.quote-container {
-    border-radius: 2%;
-    background-color: #f7f7f7;
-    width:80%;
-    height:6vh;
-    align-content: center;
-    margin:10px 50px 10px 50px;
-    padding:15px 40px 10px 20px;
-}
+    .quote-container3 {
+        border-radius: 2%;
+        background-color: #f7f7f7;
+        width:80%;
+        height:13vh;
+        align-content: center;
+        margin:10px 80px 10px 20px;
+        padding:35px 20px 10px 40px;
+    }
+
+
 
 
 }
+
+
   
