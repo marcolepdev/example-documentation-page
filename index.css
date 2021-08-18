@@ -200,7 +200,7 @@ li {
     height:3vh;
     align-content: center;
     margin:10px 50px 10px 50px;
-    padding:15px 20px 10px 20px;
+    padding:15px 40px 10px 20px;
 }
 
 .quote-container3 {
@@ -210,7 +210,17 @@ li {
     height:6vh;
     align-content: center;
     margin:10px 50px 10px 50px;
-    padding:15px 20px 10px 20px;
+    padding:15px 40px 10px 20px;
+}
+    
+.quote-container {
+    border-radius: 2%;
+    background-color: #f7f7f7;
+    width:80%;
+    height:6vh;
+    align-content: center;
+    margin:10px 50px 10px 50px;
+    padding:15px 40px 10px 20px;
 }
 
 
